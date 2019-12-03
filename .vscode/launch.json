@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tree234App",
+            "request": "launch",
+            "mainClass": "Tree234App"
+        }
+    ]
+}
